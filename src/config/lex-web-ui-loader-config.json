@@ -15,8 +15,9 @@
   },
   "ui": {
     "parentOrigin": "",
-    "toolbarTitle": "Order Config",
-    "toolbarLogo": "",
+    "toolbarTitle": "Athena",
+    "toolbarColor": "light-blue darken-2",
+    "toolbarLogo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAZiS0dEAAAAAAAA+UO7fwAAAAlwSFlzAAAASAAAAEgARslrPgAAAqFJREFUWMPt1c+LVXUYx/Hn3NEUc2xqNqMtRMzFIBEEBrqP6AcarQIRxoWSLiTyDzCXBpKF2aJVbgrKRQhFa0VXRVDiRlHQ8Qc4CiqkIfNyMd+Rr1/uOd5zvAMJfuDCPd/z+T7P+3yf5zkn4rmeMVVtN2BxRLwTEW9HxIaIWBsRL6fbtyLifEScjIhfIuJ0VVWzC0KOJdiL6wbX1bRnybBhPsTFFiClLmLLMEAqfI7ZhmRb8SKWYhXexYE+DzCLfWjdJjnM0SLoNTwo1s5hvM/+EWzDpcJ/tBNUOplcP2Oq5pROY6wmzhh+Kvz7uvRMXqbv0MOJbO3PwnMGkzXxevimKN/mQWGWFvU/lgLuytb+wxp8WkD9m052rAbqWOa9YJDpMzem87qCcbyJu9n6wcw/hXtFSW7je3yMdRjFC3g93ZvXZ0+CWezx98xUgpnJ1s5iebHvDfylva6i1wT0QWa+hj3FydzE+pq9I9iOf1pCbWoC+rrok1w3sXHAPnwL+/G7ubG/Y+51MYM/8HcW94umQKdqnuKsmgnqImzOYp9sMpbfqfs4iGXDgkl5Vuet0WS8nxm/wpo+npX4CCsb4jR6sCzLc68JKNdoTaL5ibuBiY6e0TxRfq9+5CJW9VnbFBGvpP/j6bqL59W6pE1Aa/usnYqImfT/Rrru4nktBlFRssM1nonUHxMNcRo9OFJXsiagS1g00JO0EBZhugsQ7FgAoN1lkjZA01gxRJiXzH2/OgPBbxgZAkwPx/slaAsEhzV9lZ8MM1I2chegQ8X18S7lS2X6tYj1ZRegHn4s1q5g5yDTl6bpkz4980OK3Q4oq3t5UnA5leA9TGJ5+k3ifXyrGO3sZHr9cs2rKoG69snTqKqqRxydG3Wh9L8Deq5nTg8BE7N6+RbaoZgAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDMtMDdUMjE6MTM6MTErMDA6MDAur2rvAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAzLTA3VDIxOjEzOjExKzAwOjAwX/LSUwAAACh0RVh0c3ZnOmJhc2UtdXJpAGZpbGU6Ly8vdG1wL21hZ2ljay1xWGdMUDJTQa3I+jYAAAAASUVORK5CYII=",
     "positiveFeedbackIntent": "",
     "negativeFeedbackIntent": "",
     "helpIntent": "help",

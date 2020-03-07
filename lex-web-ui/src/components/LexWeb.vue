@@ -1,5 +1,5 @@
 <template>
-  <v-app id="lex-web"
+  <v-app dark id="lex-web"
   >
     <toolbar-container
       v-bind:userName="userNameValue"
